@@ -1,0 +1,67 @@
+Iniciando o Teste...
+
+=== Fase 1: Simulação de Acessos ===
+
+=== Fase 2: Exibição de Padrões de Acesso ===
+Bloco 00: 400050403 acessos, Frequência: 400050403
+Bloco 01: 399992708 acessos, Frequência: 399992708
+Bloco 02: 399990126 acessos, Frequência: 399990126
+Bloco 03: 400008810 acessos, Frequência: 400008810
+Bloco 04: 399988227 acessos, Frequência: 399988227
+Bloco 05: 400003350 acessos, Frequência: 400003350
+Bloco 06: 400004118 acessos, Frequência: 400004118
+Bloco 07: 399986883 acessos, Frequência: 399986883
+Bloco 08: 399993337 acessos, Frequência: 399993337
+Bloco 09: 399982038 acessos, Frequência: 399982038
+
+=== Fase 3: Medição de Tempo Sem Otimização ===
+Medição de tempo de execução em andamento...
+
+=== Fase 4: Otimização de Memória ===
+
+Blocos que serão removidos para dar espaço a novos blocos:
+Bloco 9 será removido.
+Bloco 8 será removido.
+Bloco 7 será removido.
+Bloco 6 será removido.
+Bloco 5 será removido.
+Bloco 4 será removido.
+Bloco 3 será removido.
+Bloco 2 será removido.
+Bloco 1 será removido.
+Bloco 0 será removido.
+Bloco 9 será removido.
+Bloco 8 será removido.
+Bloco 7 será removido.
+Bloco 6 será removido.
+Bloco 5 será removido.
+Bloco 4 será removido.
+Bloco 3 será removido.
+Bloco 2 será removido.
+Bloco 1 será removido.
+Movendo Block_3_0 para a Memória Rápida...
+Movendo Block_3_1 para a Memória Rápida...
+Movendo Block_3_2 para a Memória Rápida...
+Movendo Block_3_3 para a Memória Rápida...
+Movendo Block_3_4 para a Memória Rápida...
+Movendo Block_3_5 para a Memória Rápida...
+Movendo Block_3_6 para a Memória Rápida...
+Movendo Block_3_7 para a Memória Rápida...
+Movendo Block_3_8 para a Memória Rápida...
+Movendo Block_3_9 para a Memória Rápida...
+Removendo Bloco 1 da Memória Rápida devido à falta de espaço.
+Removendo Bloco 2 da Memória Rápida devido à falta de espaço.
+Removendo Bloco 3 da Memória Rápida devido à falta de espaço.
+Removendo Bloco 4 da Memória Rápida devido à falta de espaço.
+Removendo Bloco 5 da Memória Rápida devido à falta de espaço.
+Removendo Bloco 6 da Memória Rápida devido à falta de espaço.
+Removendo Bloco 7 da Memória Rápida devido à falta de espaço.
+Removendo Bloco 8 da Memória Rápida devido à falta de espaço.
+Removendo Bloco 9 da Memória Rápida devido à falta de espaço.
+Removendo Bloco 0 da Memória Rápida devido à falta de espaço.
+
+=== Fase 5: Medição de Tempo Com Otimização ===
+Medição de tempo de execução em andamento...
+Teste 4 concluído em 138,939085 segundos.
+
+Testes concluídos. Arquivo gerado com sucesso.

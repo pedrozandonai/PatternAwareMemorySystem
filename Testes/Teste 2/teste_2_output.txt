@@ -1,0 +1,49 @@
+Iniciando o Teste...
+
+=== Fase 1: Simulação de Acessos ===
+
+=== Fase 2: Exibição de Padrões de Acesso ===
+Bloco 00: 200026301 acessos, Frequência: 200026301
+Bloco 01: 199980591 acessos, Frequência: 199980591
+Bloco 02: 200007684 acessos, Frequência: 200007684
+Bloco 03: 200008921 acessos, Frequência: 200008921
+Bloco 04: 199986085 acessos, Frequência: 199986085
+Bloco 05: 199997435 acessos, Frequência: 199997435
+Bloco 06: 200001799 acessos, Frequência: 200001799
+Bloco 07: 200002783 acessos, Frequência: 200002783
+Bloco 08: 199993851 acessos, Frequência: 199993851
+Bloco 09: 199994550 acessos, Frequência: 199994550
+
+=== Fase 3: Medição de Tempo Sem Otimização ===
+Medição de tempo de execução em andamento...
+
+=== Fase 4: Otimização de Memória ===
+
+Blocos que serão removidos para dar espaço a novos blocos:
+Bloco 9 será removido.
+Bloco 8 será removido.
+Bloco 7 será removido.
+Bloco 6 será removido.
+Bloco 5 será removido.
+Bloco 4 será removido.
+Bloco 3 será removido.
+Bloco 2 será removido.
+Bloco 1 será removido.
+Bloco 0 será removido.
+Movendo Block_1_0 para a Memória Rápida...
+Movendo Block_1_1 para a Memória Rápida...
+Movendo Block_1_2 para a Memória Rápida...
+Movendo Block_1_3 para a Memória Rápida...
+Movendo Block_1_4 para a Memória Rápida...
+Movendo Block_1_5 para a Memória Rápida...
+Movendo Block_1_6 para a Memória Rápida...
+Movendo Block_1_7 para a Memória Rápida...
+Movendo Block_1_8 para a Memória Rápida...
+Movendo Block_1_9 para a Memória Rápida...
+Removendo Bloco 0 da Memória Rápida devido à falta de espaço.
+
+=== Fase 5: Medição de Tempo Com Otimização ===
+Medição de tempo de execução em andamento...
+Teste 2 concluído em 146,490680 segundos.
+
+Testes concluídos. Arquivo gerado com sucesso.

@@ -1,0 +1,16 @@
+Teste 1 - Tempo médio de execução sem otimização: 0,137267 segundos
+Teste 1 - Tempo médio de execução com otimização: 0,031794 segundos
+Teste 1 - Tempo total do teste: 166,428968 segundos.
+Teste 2 - Tempo médio de execução sem otimização: 0,113569 segundos
+Teste 2 - Tempo médio de execução com otimização: 0,024609 segundos
+Teste 2 - Tempo total do teste: 146,490680 segundos.
+Teste 3 - Tempo médio de execução sem otimização: 0,114200 segundos
+Teste 3 - Tempo médio de execução com otimização: 0,025905 segundos
+Teste 3 - Tempo total do teste: 153,599981 segundos.
+Teste 4 - Tempo médio de execução sem otimização: 0,112638 segundos
+Teste 4 - Tempo médio de execução com otimização: 0,024386 segundos
+Teste 4 - Tempo total do teste: 138,939085 segundos.
+Teste 5 - Tempo médio de execução sem otimização: 0,111862 segundos
+Teste 5 - Tempo médio de execução com otimização: 0,024945 segundos
+Teste 5 - Tempo total do teste: 146,079712 segundos.
+Tempo total de execução: 751,827217 segundos.

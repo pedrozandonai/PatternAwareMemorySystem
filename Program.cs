@@ -11,23 +11,15 @@
             const int timeMeasurementIterations = 10;
             const int cacheSize = 10;
             const int numTests = 5;
-            const bool executeOnAzure = false;
 
-            if (executeOnAzure)
-            {
-
-            }
-            else
-            {
-                await Tests.RunTests(
-                    arraySize,
-                    blockSize,
-                    accessIterations,
-                    timeMeasurementIterations,
-                    cacheSize,
-                    numTests
-                );
-            }
+            await Tests.RunTests(
+                arraySize,
+                blockSize,
+                accessIterations,
+                timeMeasurementIterations,
+                cacheSize,
+                numTests
+            );
         }
     }
 }
