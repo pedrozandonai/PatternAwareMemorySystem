@@ -1,0 +1,57 @@
+Iniciando o Teste...
+
+=== Fase 1: Simulação de Acessos ===
+Simulando acessos à memória...
+
+=== Fase 2: Exibição de Padrões de Acesso ===
+
+Padrões de acesso à memória:
+Bloco 00: 299990017 acessos, Frequência: 299990017
+Bloco 01: 300000023 acessos, Frequência: 300000023
+Bloco 02: 299990865 acessos, Frequência: 299990865
+Bloco 03: 300007384 acessos, Frequência: 300007384
+Bloco 04: 300029307 acessos, Frequência: 300029307
+Bloco 05: 299991321 acessos, Frequência: 299991321
+Bloco 06: 300039327 acessos, Frequência: 300039327
+Bloco 07: 299996539 acessos, Frequência: 299996539
+Bloco 08: 299969291 acessos, Frequência: 299969291
+Bloco 09: 299985926 acessos, Frequência: 299985926
+
+=== Fase 3: Medição de Tempo Sem Otimização ===
+Medição de tempo de execução em andamento...
+
+Tempo médio de execução sem otimização: 0,115393 segundos
+
+=== Fase 4: Otimização de Memória ===
+
+Otimizando memória...
+Movendo Bloco 6 para a Memória Rápida...
+Removendo Bloco 4 da Memória Rápida devido à falta de espaço.
+Movendo Bloco 4 para a Memória Rápida...
+Removendo Bloco 6 da Memória Rápida devido à falta de espaço.
+Movendo Bloco 3 para a Memória Rápida...
+Removendo Bloco 3 da Memória Rápida devido à falta de espaço.
+Movendo Bloco 1 para a Memória Rápida...
+Removendo Bloco 7 da Memória Rápida devido à falta de espaço.
+Movendo Bloco 7 para a Memória Rápida...
+Removendo Bloco 1 da Memória Rápida devido à falta de espaço.
+Movendo Bloco 5 para a Memória Rápida...
+Removendo Bloco 0 da Memória Rápida devido à falta de espaço.
+Movendo Bloco 2 para a Memória Rápida...
+Removendo Bloco 9 da Memória Rápida devido à falta de espaço.
+Movendo Bloco 0 para a Memória Rápida...
+Removendo Bloco 2 da Memória Rápida devido à falta de espaço.
+Movendo Bloco 9 para a Memória Rápida...
+Removendo Bloco 5 da Memória Rápida devido à falta de espaço.
+Movendo Bloco 8 para a Memória Rápida...
+Removendo Bloco 8 da Memória Rápida devido à falta de espaço.
+
+=== Fase 5: Medição de Tempo Com Otimização ===
+Medição de tempo de execução em andamento...
+
+Tempo médio de execução com otimização: 0,027028 segundos
+Teste 3 concluído em 160,467052 segundos.
+
+Tempo total do teste 3: 160,467052 segundos.
+
+Testes concluídos. Arquivo gerado com sucesso.

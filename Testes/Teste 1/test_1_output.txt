@@ -1,0 +1,43 @@
+Iniciando o Teste...
+
+=== Fase 1: Simulação de Acessos ===
+Simulando acessos à memória...
+
+=== Fase 2: Exibição de Padrões de Acesso ===
+
+Padrões de acesso à memória:
+Bloco 00: 99999798 acessos, Frequência: 99999798
+Bloco 01: 100003133 acessos, Frequência: 100003133
+Bloco 02: 100003864 acessos, Frequência: 100003864
+Bloco 03: 100008456 acessos, Frequência: 100008456
+Bloco 04: 100005579 acessos, Frequência: 100005579
+Bloco 05: 99995010 acessos, Frequência: 99995010
+Bloco 06: 100000867 acessos, Frequência: 100000867
+Bloco 07: 99997703 acessos, Frequência: 99997703
+Bloco 08: 99984321 acessos, Frequência: 99984321
+Bloco 09: 100001269 acessos, Frequência: 100001269
+
+=== Fase 3: Medição de Tempo Sem Otimização ===
+Medição de tempo de execução em andamento...
+
+Tempo médio de execução sem otimização: 0,121657 segundos
+
+=== Fase 4: Otimização de Memória ===
+
+Otimizando memória...
+Movendo Bloco 3 para a Memória Rápida...
+Movendo Bloco 4 para a Memória Rápida...
+Movendo Bloco 2 para a Memória Rápida...
+Movendo Bloco 1 para a Memória Rápida...
+Movendo Bloco 9 para a Memória Rápida...
+Movendo Bloco 6 para a Memória Rápida...
+
+=== Fase 5: Medição de Tempo Com Otimização ===
+Medição de tempo de execução em andamento...
+
+Tempo médio de execução com otimização: 0,025544 segundos
+Teste 1 concluído em 145,936920 segundos.
+
+Tempo total do teste 1: 145,936920 segundos.
+
+Testes concluídos. Arquivo gerado com sucesso.
