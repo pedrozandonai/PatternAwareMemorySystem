@@ -13,9 +13,10 @@
 - [Uso](#uso)
   - [Configuração dos Parâmetros](#configuração-dos-parâmetros)
 - [Arquitetura](#arquitetura)
-  - [Componentes](#componentes)
+  - [Componentes](#componenetes)
   - [Fluxo de Execução](#fluxo-de-execução)
 - [Resultados Esperados](#resultados-esperados)
+- [Resultados de Desempenho](#resultados-de-desempenho)
 - [Como Contribuir](#como-contribuir)
 - [Referências](#referências)
 
@@ -142,15 +143,19 @@ Os relatórios são salvos em arquivos .txt para análise posterior.
 Abaixo estão os gráficos comparando os tempos de execução com e sem otimização, realizados em computadores com diferentes configurações de hardware, ordenados do mais poderoso (Teste 1) ao menos potente (Teste 4):
 
 ### Teste 1
+
 ![1](https://github.com/user-attachments/assets/6b46a3af-8270-423a-8fa4-2dc972bdb779)
 
 ### Teste 2
+
 ![2](https://github.com/user-attachments/assets/518c7b52-213b-4a8a-96a3-06e76d2bcc4e)
 
 ### Teste 3
+
 ![3](https://github.com/user-attachments/assets/b1f666d7-ec82-4ef0-b780-d3d5b9470bb4)
 
 ### Teste 4
+
 ![4](https://github.com/user-attachments/assets/f588daf4-7fa9-4623-a6eb-af4b9545bfa9)
 
 ## Como Contribuir
